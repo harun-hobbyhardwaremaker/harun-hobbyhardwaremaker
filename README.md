@@ -1,7 +1,6 @@
 ## Hi there 👋
-<p align="center">
-  <img src="https://demolab.com+|+HARDWARE+HACKER;KEEP+ON+TINKERING+THE+SYSTEM+⚡" alt="Typing SVG" />
-</p>
+# ⚡ HARUN | HARDWARE HACKER
+### 🟢 KEEP ON TINKERING THE SYSTEM
 
 ## 🟢 <img src="https://githubusercontent.com" width="30" /> MY R&D & LEARNING JOURNEY
 - 🟩 **To be completely honest, I don't have a background in software development and I don't even know how to build a website yet!** I am just an ordinary guy trying to learn, explore, and tinker from scratch.
@@ -17,11 +16,4 @@
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
-</p>
-
----
-
-## 🟢 <img src="https://githubusercontent.com" width="30" /> GITHUB STATS
-<p align="center">
-  <img src="https://vercel.app" alt="Harun's GitHub Stats" />
 </p>
